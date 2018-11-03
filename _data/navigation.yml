@@ -1,5 +1,8 @@
 # Menu navigation links
 presentations:
-  - reactive-amsterdam-26-06-2018:
+  - reactive-amsterdam-2018-06-26:
     title: FP patterns 101 (Reactive Meetup AMS 2018)
     url: /presentations/2018-06-26-fp-101-reactive-ams/index.html
+  - don-t-fear-the-monad-2018-11-01:
+    title: Don't fear the monad
+    url: /presentations/2018-11-01-fp-monads/index.html
