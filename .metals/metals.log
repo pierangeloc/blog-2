@@ -1,0 +1,6 @@
+2020.07.11 00:31:43 INFO  started: Metals version 0.9.1 in workspace '/Users/pierangelo.cecchetto/Documents/projects/myprojects/pierangeloc.github.io'
+2020.07.11 00:31:44 INFO  time: initialize in 1.06s
+2020.07.11 00:31:44 WARN  no build tool detected in workspace '/Users/pierangelo.cecchetto/Documents/projects/myprojects/pierangeloc.github.io'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.07.11 00:31:44 INFO  no build target: using presentation compiler with only scala-library
+2020.07.11 00:31:46 WARN  no build target for: /Users/pierangelo.cecchetto/Downloads/minimalApplication-0.6.7/build.sc
+2020.07.11 17:09:29 INFO  shutting down Metals
